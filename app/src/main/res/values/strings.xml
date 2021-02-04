@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Camcorder</string>
+    <string name="capture">Capture</string>
+    <string name="flip" />
+    <string name="loading">LOADING..</string>
+    <string name="splash">Splash</string>
+    <string name="back_button">Back button</string>
+    <string name="button">Button</string>
+    <string name="ratio">RATIO</string>
+    <string name="flash">FLASH</string>
+    <string name="off">off</string>
+    <string name="startvideocam">startvideocam</string>
+    <string name="buttonstop">Buttonstop</string>
+    <string name="gallery">Gallery</string>
+    <string name="facear">FaceAR</string>
+    <string name="delete">Delete</string>
+    <string name="NotSupportMessage">CameraX has no support for your good old device</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="quality">QUALITY</string>
+    <string name="format">FORMAT</string>
+    <string name="prefRatio">AspectRatio</string>
+    <string name="prefFlash">FlashMode</string>
+    <string name="prefLens">LensFacing</string>
+</resources>
